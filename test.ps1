@@ -10,7 +10,6 @@ Write-Host "scriptPath:$scriptPath"
 $cwd = $MyInvocation.MyCommand.Path | Split-Path
 Write-Host "cwd:$cwd"
 
-
 $scriptPath = $MyInvocation.MyCommand.Definition
 Write-Output "scriptPath:$scriptPath"
 
