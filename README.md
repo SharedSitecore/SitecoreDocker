@@ -1,2 +1,2 @@
-# SitecoreDocker
-PowerShell extensions for Docker-based Sitecore development
+# Introduction 
+PowerShell extensions for Docker-based Sitecore development 
